@@ -7,7 +7,8 @@ public class MostrarDel1al10 {
 			System.out.println(i);
 			i++;
 		}
-
+		//esto es un comentario
 	}
 
 }
+
