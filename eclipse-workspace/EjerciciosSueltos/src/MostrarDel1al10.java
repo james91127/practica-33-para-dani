@@ -6,9 +6,9 @@ public class MostrarDel1al10 {
 		while(i<=x) {
 			System.out.println(i);
 			i++;
+			//esto es un comentario
 		}
-		//esto es un comentario
-	}
+			}
 
 }
 
